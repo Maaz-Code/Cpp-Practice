@@ -41,3 +41,5 @@ int main() {
     }
     return 0;
 }
+
+//other program can also be made to check if an alphabet is a vowel or a consonant
