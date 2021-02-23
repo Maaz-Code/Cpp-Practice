@@ -34,3 +34,6 @@ int main() {
         }
     }
 }
+
+// Time Complexity for this would be O(log n) which is less than that of linear search.
+// Hence this is more efficient than linear search and takes less time.
